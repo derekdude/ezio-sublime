@@ -1,0 +1,29 @@
+{
+	// http://www.sublimetext.com/docs/3/color_schemes.html
+	"variables": {
+		 "nord0": "#c0c5ce", 
+		 "nord4": "#2e3440", 
+		 "nord6": "#434C5E",
+		 "nord7": "#3B4252",
+		 "nord8": "#3B4252",
+		 "nord9": "#3B4252",
+		 "nord10": "#3B4252",
+		 "nord13": "#991b1b", 
+		 "nord14": "#4C566A", 
+		 "nord15": "#3B4252"
+	},
+	"globals": {
+		// "foreground": "var(green)",
+		"caret": "#7f1d1d", 
+		"line_highlight": "#E5E9F0", 
+		"selection": "#991b1b00", 
+		"selection_border": "#991b1b", 
+		"line_diff_modified": "#991b1b"
+	},
+	"rules": [
+		{
+			// "scope": "string",
+			// "foreground": "#00FF00",
+		},
+	],
+}

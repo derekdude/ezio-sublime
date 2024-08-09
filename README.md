@@ -12,6 +12,10 @@ Thanks for reading and hope you enjoy the theme!
 
 ### Light
 
-![image](https://github.com/derekdude/ezio-sublime/assets/43392916/75da41fd-2d4f-44fd-984d-52a0bf27e993)
+<img width="2672" alt="image" src="https://github.com/user-attachments/assets/80caf3c8-c52e-4d39-8881-46bd81e6b191">
 
 ### Dark
+
+<img width="2672" alt="image" src="https://github.com/user-attachments/assets/c2f4d986-f48d-4f68-9385-9556a4fd0aee">
+
+
